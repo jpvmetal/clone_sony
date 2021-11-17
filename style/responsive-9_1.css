@@ -1,0 +1,63 @@
+@media screen and (max-width: 1500px) { 
+    body {
+        background-image: url('../img/wallpaper.jpg'); 
+        background-size: auto;
+        max-width: 100%; 
+        height: auto; 
+    }
+    
+    .quadro_sony {
+        margin-top: 20%; 
+        width: 50%;
+    }
+
+    .quadro_playstation { 
+        width: 50%; 
+    }
+
+    .quadro_logon { 
+        padding: 15px 15px 15px 15px; 
+        width: 50%;
+    }
+
+    #inicio_sessao { 
+        width: 60%; 
+        display: flex; 
+        margin: auto; 
+        margin-top: 20px; 
+        text-align: center; 
+    }
+    
+    .botao_seguinte { 
+        width: 60%; 
+        display: flex;
+        margin: auto; 
+        margin-top: 15px;
+        align-items: center; 
+        justify-content: center;
+    }
+    
+    .problema { 
+        width: auto; 
+        margin-left: 71px;
+        margin-right: 71px;
+    }
+    
+    .botao_conta { 
+        width: 60%; 
+        display: flex; 
+        margin: auto; 
+        margin-top: 15px; 
+        align-items: center; 
+        justify-content: center; 
+    }
+    
+    .ajuda { 
+        margin-left: 0%; 
+        text-align: center; 
+    }
+
+}
+
+
+
